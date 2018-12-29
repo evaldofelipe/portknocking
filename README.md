@@ -1,8 +1,8 @@
-# Doorknocking
+# Port knocking
 
 Did you have that server with port 22 open to the world just waiting for the worst? don't worry! Use this scripts to create a set of IPtables rules to protect your server :D
 
-Door knocking or Port knocking is a method of externally opening ports on a firewall by generating a connection attempt on a set of prespecified closed ports. Once a correct sequence of connection attempts is received, the firewall rules are dynamically modified to allow the host which sent the connection attempts to connect over specific port(s). Read more about [here](https://en.wikipedia.org/wiki/Port_knocking).
+Port knocking or Door knocking is a method of externally opening ports on a firewall by generating a connection attempt on a set of prespecified closed ports. Once a correct sequence of connection attempts is received, the firewall rules are dynamically modified to allow the host which sent the connection attempts to connect over specific port(s). Read more about [here](https://en.wikipedia.org/wiki/Port_knocking).
 
 ## Prerequisites
 
