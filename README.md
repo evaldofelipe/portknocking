@@ -51,3 +51,7 @@ host="0.0.0.0"
 ```bash
 alias server='bash /path/to/script/knocking.sh && ssh user@0.0.0.0'
 ```
+
+## Improvements
+
+- Create a script to automate all this stuffs
